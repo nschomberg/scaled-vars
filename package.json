@@ -1,6 +1,6 @@
 {
   "name": "scaled-vars",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "A Javascript library for mapping CSS custom properties from a numerical range.",
   "main": "lib/scaled-vars.min.js",
   "scripts": {
